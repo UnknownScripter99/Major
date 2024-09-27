@@ -1,4 +1,4 @@
-import time
+import json
 from datetime import datetime, timedelta, timezone
 
 data = {
@@ -18,5 +18,9 @@ data = {
     "expires": int((datetime.now(timezone.utc) + timedelta(days=1)).timestamp())
 }
 
+# Output JSON format
 def get_data():
-    return data
+    return json.dumps(data, indent=2)
+
+# Optionally, print the data if you want to output in JSON format in the console
+print(get_data())
