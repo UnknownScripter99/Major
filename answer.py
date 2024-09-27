@@ -7,9 +7,9 @@
   },
   "answer": {
     "choice_1": 10,
-    "choice_2": 04,
-    "choice_3": 05,
-    "choice_4": 01
+    "choice_2": 4,
+    "choice_3": 5,
+    "choice_4": 1
   },
   "expires": 1727461800
 }
