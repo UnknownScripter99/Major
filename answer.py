@@ -7,10 +7,10 @@
     "Watch YouTube Shorts #6": "241086"
   },
   "answer": {
-    "choice_1": 1,
+    "choice_1": 5,
     "choice_2": 3,
-    "choice_3": 2,
-    "choice_4": 5
+    "choice_3": 12,
+    "choice_4": 9
   },
   "expires": 1728691200
 }
